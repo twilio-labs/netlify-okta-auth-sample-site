@@ -1,0 +1,11 @@
+# To use the site you must be logged in (e.g. Role=Everyone)
+/*	200!	Role=Everyone
+
+# Allow these assets when not logged in (good for browser bookmarks)
+/site.webmanifest      /site.webmanifest       200!
+/apple-touch-icon.png  /apple-touch-icon.png   200!
+/favicon*              /favicon:splat          200!
+/android-chrome-*      /android-chrome-:splat  200!
+
+# Fallback login function if not logged in
+/*  /.netlify/functions/login  200!

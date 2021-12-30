@@ -1,0 +1,2 @@
+[dev]
+  jwtSecret = "super_secret_dev_only_value"
