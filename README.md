@@ -1,2 +1,3 @@
-# okta4netlify-sample-site
-A sample site for the okta4netlify package.
+# netlify-okta-auth-sample-site
+
+A sample site for the netlify-okta-auth package.

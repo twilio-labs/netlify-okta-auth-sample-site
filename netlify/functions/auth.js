@@ -1,4 +1,4 @@
-const { getAuthHandler } = require("@twilio-labs/okta4netlify");
+const { getAuthHandler } = require("@twilio-labs/netlify-okta-auth");
 
 const config = {
   jwtSecret: "super_secret_dev_only_value",

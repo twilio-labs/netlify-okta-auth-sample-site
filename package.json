@@ -1,15 +1,14 @@
 {
-  "name": "_scratch",
+  "name": "netlify-okta-auth-sample-site",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple web site to demonstrate netlify-okta-auth",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "netlify dev"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Twilio Labs",
+  "license": "MIT",
   "dependencies": {
-    "@twilio-labs/okta4netlify": "^0.1.0-alpha.3"
+    "@twilio-labs/netlify-okta-auth": "^0.1.0-alpha.5"
   }
 }
