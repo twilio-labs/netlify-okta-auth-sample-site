@@ -1,6 +1,6 @@
 {
   "name": "netlify-okta-auth-sample-site",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple web site to demonstrate netlify-okta-auth",
   "scripts": {
     "start": "netlify dev"
@@ -9,6 +9,6 @@
   "author": "Twilio Labs",
   "license": "MIT",
   "dependencies": {
-    "@twilio-labs/netlify-okta-auth": "^0.1.0-alpha.5"
+    "@twilio-labs/netlify-okta-auth": "^1.0.2"
   }
 }
